@@ -1,5 +1,6 @@
 /* Add a black background color to the top navigation */
 * {box-sizing:border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .topnav {
   background-color: hsl(0, 0%, 100%);
@@ -30,11 +31,11 @@
     text-align: center;
     padding: 25px 25px;
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 14px;
     font-weight: 600;
     font-family: 'Roboto', sans-serif;
     margin-left:5rem;
-    margin-top:1rem;
+    margin-top:2rem;
    
   }
   
@@ -238,7 +239,7 @@ img {vertical-align: middle;}
 
 .article-1-light-shadow{
   width:448px;
-  height:450px;
+  height:550px;
   color:#000000;
   position:relative;
   background-color:rgb(212, 211, 211);
@@ -248,12 +249,12 @@ img {vertical-align: middle;}
 
 @media screen and (max-width: 600px) {
   .article-1-light-shadow{
-    width:2rem;
-    height:2rem;
+    width:22.5rem;
+    height:32rem;
     color:#000000;
     position:relative;
-    background-color:rgb(250, 0, 0);
-    
+    background-color:rgb(141, 141, 141);
+    border-radius: 3%;
     margin-left:-2rem;
   }
   
@@ -273,14 +274,62 @@ img {vertical-align: middle;}
 }
 .article-heading{
   margin-top:-10px;
-  margin-left:4.10rem;
+  margin-left:4.6rem;
+  font-size:25px;
 }
 
 
 @media screen and (max-width: 600px) {
   .article-heading{
     margin-top:10px;
-    margin-left:4.6rem;
+    margin-left:0.5rem;
   }
   
   }
+
+.article-title{
+  margin:auto;
+  margin-top:12px;
+  margin-left:12px;
+  font-size:22px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+@media screen and (max-width:600px){
+  .article-title{
+    margin:auto;
+    margin-top:12px;
+    margin-left:12px;
+    font-size:22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+}
+.article-1-paragraph-1{
+margin-left:5px;
+color:rgba(61, 61, 61, 0.904);
+}
+
+@media screen and (max-width:600px){
+  .article-1-paragraph-1{
+    margin-left:15px;
+    position:relative;
+    color:rgba(61, 61, 61, 0.904);
+    }
+}
+
+.article-1-paragraph-2{
+  margin-left:5px;
+  color:rgba(61, 61, 61, 0.904);
+  }
+
+  @media screen and (max-width:600px){
+    .article-1-paragraph-2{
+      margin-left:15px;
+      position:relative;
+      color:rgba(61, 61, 61, 0.904);
+      }
+  }
+  
+.article-1-readmore{
+  margin-left:10px;
+  font-size:20px;
+}
