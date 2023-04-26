@@ -173,14 +173,194 @@
   transform: scaleX(1);
   transform-origin: bottom left;
 }
+/*  mission statement_____________________________________________________________________ */
+.mission-statement-shadow{
+  background-color: #e6e3e3;
+  width:50%;
+  margin-left:1rem;
+  font-size:30px;
+  height:45rem;
+  border-radius: 5%;
+  position:relative;
+  margin-top:2rem;
+ }
+
+
+ @media screen and (max-width: 600px) {
+  .mission-statement-shadow{
+    background-color: #eceaea;
+    width:95%;
+    margin-left:0.6rem;
+    font-size:30px;
+    height:83.5rem;
+    border-radius: 3%;
+    position:relative;
+    margin-top:2rem;
+   }
+}
+
+@media screen and (max-width: 600px) {
+  .mission-statement-shadow p{
+    font-family: 'Roboto', sans-serif;
+    margin-left:1rem;
+    font-size:20px;
+    margin-top:-3.5rem;
+    padding:25px;
+    
+  }
+  
+  
+}
+
+.mission-statement-shadow p{
+  font-family: 'Roboto', sans-serif;
+  margin-left:1rem;
+  font-size:20px;
+  
+}
+
+
+.mission-statement-shadow h2{
+  font-family: 'Roboto', sans-serif;
+  margin-left:1rem;
+  font-size:50px;
+  margin-top:-45rem;
+  padding-top:1.5rem;;
+  
+}
+@media screen and (max-width: 600px) {
+  .mission-statement-shadow h2{
+    font-family: 'Roboto', sans-serif;
+    margin-left:2.4rem;
+    font-size:50px;
+    margin-top:-31rem;
+    padding-top:1.5rem;;
+    
+  }
+  
+  
+}
+
+
+ .mission-statement-shadow img{
+  width:38.5rem;
+  left:42.9rem;
+  position:relative;
+  height:44.9rem;
+  top:0.1rem;
+  border-radius: 5%;
+ }
 
 
 
+ @media screen and (max-width: 600px) {
+  .mission-statement-shadow img{
+    width:23.5rem;
+    left:-0.5rem;
+    position:relative;
+    height:30.9rem;
+    top:84.1rem;
+    border-radius: 5%;
+   }
+  
+}
+
+
+
+/*  about us statement_____________________________________________________________________ */
+.about-us-shadow{
+  background-color: #818181;
+  width:50%;
+  margin-left:1rem;
+  font-size:30px;
+  height:35rem;
+  border-radius: 5%;
+  position:relative;
+  margin-top:9rem;
+ }
+
+
+ @media screen and (max-width: 600px) {
+  .about-us-shadow{
+    background-color: #eceaea;
+    width:95%;
+    margin-left:0.6rem;
+    font-size:30px;
+    height:66.5rem;
+    border-radius: 3%;
+    position:relative;
+    margin-top:2rem;
+    padding:5px;
+   }
+}
+
+@media screen and (max-width: 600px) {
+  .about-us-shadow p{
+    font-family: 'Roboto', sans-serif;
+    margin-left:1rem;
+    font-size:20px;
+    margin-top:-3.5rem;
+    padding:25px;
+    
+  }
+  
+  
+}
+
+.about-us-shadow p{
+  font-family: 'Roboto', sans-serif;
+  margin-left:1rem;
+  font-size:20px;
+  
+}
+
+
+.about-us-shadow h2{
+  font-family: 'Roboto', sans-serif;
+  margin-left:1rem;
+  font-size:35px;
+  margin-top:-35rem;
+  padding-top:1.5rem;;
+  
+}
+@media screen and (max-width: 600px) {
+  .about-us-shadow h2{
+    font-family: 'Roboto', sans-serif;
+    margin-left:2.4rem;
+    font-size:50px;
+    margin-top:-31rem;
+    padding-top:1.5rem;;
+    
+  }
+  
+  
+}
+
+
+ .about-us-shadow img{
+  width:38.5rem;
+  left:42.9rem;
+  position:relative;
+  height:34.8rem;
+  top:0.1rem;
+  border-radius: 5%;
+ }
+
+
+
+ @media screen and (max-width: 600px) {
+  .about-us-shadow img{
+    width:23.5rem;
+    left:-0.5rem;
+    position:relative;
+    height:30.9rem;
+    top:67.1rem;
+    border-radius: 5%;
+   }
+  
+}
 
 /* -----------------------------------slide show ------------------------ */
-
-
-
 
 .mySlides {
   display: none
@@ -194,7 +374,7 @@ img {
 .slideshow-container {
   max-width: 100;
   position: relative;
-  margin: auto;
+  margin-top: 7.9rem;
 }
 
 /* Caption text */
@@ -259,6 +439,7 @@ img {
   width: 100%;
   height: 500px;
   object-fit: fill;
+  
 }
 
 @media only screen and (max-width:600px) {
@@ -267,7 +448,7 @@ img {
     width: 100%;
     height: 200px;
     object-fit: fill;
-    margin-top: 1rem;
+    margin-top: -7rem;
   }
 }
 
@@ -293,7 +474,7 @@ img {
     background-color: rgb(141, 141, 141);
     border-radius: 3%;
     margin-left: -2rem;
-    margin-top: 2rem;
+    margin-top: -76rem;
   }
 
 }
@@ -321,9 +502,10 @@ img {
 
 
 @media screen and (max-width: 600px) {
-  .article-heading {
-    margin-top: 10px;
+  .article-heading-how-we-help-children {
+    margin-top: 104rem;
     margin-left: 0.5rem;
+    font-size: x-large;
   }
 
 }
@@ -1105,4 +1287,9 @@ footer a:hover {
 textarea {
   width: 200px;
   height: 80px;
+}
+
+
+.footer-gap{
+  height:40rem;
 }
