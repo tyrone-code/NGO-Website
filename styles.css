@@ -1647,6 +1647,18 @@ width:5rem;
   position: relative;
   backdrop-filter: blur(65px);
 }
+@media (max-width: 900px) {
+ 
+  .modal-content {
+  
+    left:-10rem;
+    border-width: 100px;
+    width:50%;
+    position: relative;
+    backdrop-filter: blur(65px);
+  }
+  }
+
 
 
 .bg{
@@ -1661,27 +1673,200 @@ width:5rem;
 }
 .modal-content img{
   position: absolute;
-  left:10rem;
-  bottom:-29rem;
+  left:15rem;
+  bottom:-32rem;
   margin: auto;
   object-fit: fill;
   height:40rem;
   width:40rem;
  
 }
-
-/* The Close Button */
+@media (max-width: 900px) {
+ 
+  .modal-content img{
+    position: absolute;
+    left:11rem;
+    bottom:-19rem;
+    margin: auto;
+    object-fit: fill;
+    height:22rem;
+    width:23rem;
+   
+  }
+}
+/* The Close------------------------------------------------------------------------ Button */
 .close {
   color: #ffffff;
   float: right;
-  font-size: 48px;
+  font-size:100px;
   font-weight: bold;
+  margin-left:58rem;
+  position:absolute;
+  bottom:1rem;
+  
+}
+@media (max-width: 900px) {
+ 
+  .close {
+    color: #ffffff;
+    float: right;
+    font-size:50px;
+    font-weight: bold;
+    margin-left:11rem;
+    position:absolute;
+    bottom:2.5rem;
+    z-index: 1;
+    
+  }
+
+
+  .close:hover,
+  .close:focus {
+    color: #ffffff;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
+}
+.close2 {
+  color: #ffffff;
+  float: right;
+  font-size:100px;
+  font-weight: bold;
+  margin-left:58rem;
+  position:absolute;
+  bottom:1rem;
+  
 }
 
-.close:hover,
-.close:focus {
-  color: #000;
-  text-decoration: none;
+
+@media (max-width: 900px) {
+ 
+  .close2 {
+    color: #ffffff;
+    float: right;
+    font-size:50px;
+    font-weight: bold;
+    margin-left:11rem;
+    position:absolute;
+    bottom:2.5rem;
+    z-index: 1;
+    
+  }
+  
+}
+
+.close2:hover,
+.close2:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* ----------------------------------------------- */
+.close3 {
+  color: #ffffff;
+  float: right;
+  font-size:100px;
+  font-weight: bold;
+  margin-left:58rem;
+  position:absolute;
+  bottom:1rem;
+  
+}
+
+
+@media (max-width: 900px) {
+ 
+  .close3 {
+    color: #ffffff;
+    float: right;
+    font-size:50px;
+    font-weight: bold;
+    margin-left:11rem;
+    position:absolute;
+    bottom:2.5rem;
+    z-index: 1;
+    
+  }
+  
+}
+
+.close3:hover,
+.close3:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* ----------------------------------------------- */
+.close4 {
+  color: #ffffff;
+  float: right;
+  font-size:100px;
+  font-weight: bold;
+  margin-left:58rem;
+  position:absolute;
+  bottom:1rem;
+  
+}
+
+
+@media (max-width: 900px) {
+ 
+  .close4 {
+    color: #ffffff;
+    float: right;
+    font-size:50px;
+    font-weight: bold;
+    margin-left:11rem;
+    position:absolute;
+    bottom:2.5rem;
+    z-index: 1;
+    
+  }
+  
+}
+
+.close4:hover,
+.close4:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* ----------------------------------------------- */
+.close5 {
+  color: #ffffff;
+  float: right;
+  font-size:100px;
+  font-weight: bold;
+  margin-left:58rem;
+  position:absolute;
+  bottom:1rem;
+  
+}
+
+
+@media (max-width: 900px) {
+ 
+  .close5 {
+    color: #ffffff;
+    float: right;
+    font-size:50px;
+    font-weight: bold;
+    margin-left:11rem;
+    position:absolute;
+    bottom:2.5rem;
+    z-index: 1;
+    
+  }
+  
+}
+
+.close5:hover,
+.close5:focus {
+  color: #ffffff;
+  text-decoration: underline;
   cursor: pointer;
 }
 /* --------------------------------------------- */
@@ -1715,7 +1900,7 @@ width:5rem;
     display: grid;
     width: 90%;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 10px;
+    grid-gap: 40px;
 }
 
 .gallery__item {
