@@ -397,8 +397,8 @@ img {
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
-  font-size: 15px;
+  color: #000000;
+  font-size: 90px;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
@@ -725,7 +725,7 @@ img {
 @media screen and (max-width: 600px) {
   .article-3-light-shadow {
     width: 22.5rem;
-    height: 32rem;
+    height: 34.9rem;
     color: #000000;
     position: relative;
     background-color: rgb(214, 212, 212);
@@ -1144,7 +1144,7 @@ img {
 
 .bottom-articles {
   margin-left: -53rem;
-  margin-top: 7rem;
+  margin-top: 4rem;
 }
 
 @media screen and (max-width:600px) {
@@ -1329,7 +1329,7 @@ textarea {
 
 
 .footer-gap{
-  height:35rem;
+  height:40rem;
 }
 
 @media (max-width: 900px) {
@@ -2385,3 +2385,203 @@ width:5rem;
   }
   
 } 
+.also-in-this-section-get-involved{
+  margin-top:39rem;
+}
+
+
+
+
+@media (max-width: 900px) {
+ 
+.also-in-this-section-get-involved{
+  margin-top:142rem;
+}
+}
+
+
+@media (max-width: 900px) {
+ 
+  .also-in-this-section-get-involved h2{
+    margin-top:-3rem;
+    font-size: 30px;
+    position: absolute;
+    margin-left:1rem;
+  }
+  }
+
+  /* ------------------------------------article 2 main heading */
+  .blanket-main-heading{
+    font-size: 44px;
+    z-index: 8;
+    background-color: white;
+    word-wrap: break-word;
+    width: 200px;
+    border-radius: 5%;
+    position: absolute;
+    margin-left: 2rem;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 18.5rem;
+  }
+  
+  @media (max-width: 900px) {
+    .blanket-main-heading{
+      font-size: 44px;
+      z-index: 8;
+      background-color: white;
+      word-wrap: break-word;
+      width: 180px;
+      border-radius: 5%;
+      position: absolute;
+      margin-left: -22.5rem;
+      font-weight: 700;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-top:14rem;
+   }
+  } 
+  
+  
+  .blanket-main-heading-2{
+    font-size: 40px;
+    z-index: 8;
+    background-color: rgb(255, 255, 255);
+    word-wrap: break-word;
+    width: 320px;
+    border-radius: 5%;
+    position: absolute;
+    margin-left:-5.5rem;
+    margin-top:11.1rem;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top:22rem;
+  }
+  
+  
+  @media (max-width: 900px) {
+    .blanket-main-heading-2{
+      font-size: 40px;
+      z-index: 8;
+      background-color: white;
+      word-wrap: break-word;
+      width: 275px;
+      border-radius: 5%;
+      position: absolute;
+      margin-left: -22.5rem;
+      margin-top:17.1rem;
+      font-weight: 700;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-top:17rem;
+    }
+    
+  } 
+
+
+  
+.also-in-this-section-blanket{
+  margin-top:55rem;
+}
+
+@media (max-width: 900px) {
+ 
+  .also-in-this-section-blanket{
+    margin-top:182.5rem;
+  }
+  }
+  @media (max-width: 900px) {
+ 
+    .also-in-this-section-blanket h2{
+      margin-top:-3rem;
+      font-size: 30px;
+      position: absolute;
+      margin-left:1rem;
+    }
+    }
+  
+  
+   /* ------------------------------------article 2 main heading */
+   .golf-main-heading{
+    font-size: 44px;
+    z-index: 8;
+    background-color: white;
+    word-wrap: break-word;
+    width: 130px;
+    border-radius: 5%;
+    position: absolute;
+    margin-left: -3rem;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 18.5rem;
+  }
+  
+  @media (max-width: 900px) {
+    .golf-main-heading{
+      font-size: 44px;
+      z-index: 8;
+      background-color: white;
+      word-wrap: break-word;
+      width: 115px;
+      border-radius: 5%;
+      position: absolute;
+      margin-left: -22.5rem;
+      font-weight: 700;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-top:14rem;
+   }
+  } 
+  
+  
+  .golf-main-heading-2{
+    font-size: 40px;
+    z-index: 8;
+    background-color: rgb(255, 255, 255);
+    word-wrap: break-word;
+    width: 100px;
+    border-radius: 5%;
+    position: absolute;
+    margin-left:-5.5rem;
+    margin-top:11.1rem;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top:22rem;
+  }
+  
+  
+  @media (max-width: 900px) {
+    .golf-main-heading-2{
+      font-size: 40px;
+      z-index: 8;
+      background-color: white;
+      word-wrap: break-word;
+      width: 115px;
+      border-radius: 5%;
+      position: absolute;
+      margin-left: -22.5rem;
+      margin-top:17.1rem;
+      font-weight: 700;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      margin-top:17rem;
+    }
+    
+  } 
+
+  .also-in-this-section-golf{
+    margin-top:105rem;
+  }
+  
+  @media (max-width: 900px) {
+   
+    .also-in-this-section-golf{
+      margin-top:230.5rem;
+    }
+    }
+    @media (max-width: 900px) {
+   
+      .also-in-this-section-golf h2{
+        margin-top:-3rem;
+        font-size: 30px;
+        position: absolute;
+        margin-left:1rem;
+      }
+      }
+    
