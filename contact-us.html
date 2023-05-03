@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Document</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+
+<body>
+    <nav>
+
+
+        <div class="topnav" id="myTopnav">
+            <a href="index.html" class="logolink">
+                <img src="/images/hear&soulLogo.png" class="logo-position">
+            </a>
+            <a href="index.html" class="hover-underline-animation">HOME</a>
+            <a href="about-us.html" class="hover-underline-animation">ABOUT US</a>
+            <a href="get_involved.html" class="hover-underline-animation">GET INVOLVED</a>
+            <a href="gallery.html" class="hover-underline-animation">GALLERY</a>
+            <a href="contact-us.html" class="active hover-underline-animation">CONTACT US</a>
+
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                <i class="fa fa-bars"></i>
+            </a>
+            <div class="responsive-nav-gap"></div>
+            <hr>
+        </div>
+    </nav>
+
+
+    <div class="food-donations-color">
+        <img src="/images/contact.jpg" class="food-donations-img">
+        <span class="contact-main-heading">CONTACT </span>
+        <span class="contact-main-heading-2">US</span>
+
+    </div>
+    <div>
+        <iframe src="https://embed.waze.com/iframe?zoom=16&lat=-26.099732&lon=27.751654&ct=livemap" allowfullscreen
+            class="map"></iframe>
+    </div>
+    <div class="map-icon">
+        <img src="images/location.png">
+    </div>
+
+
+    <div class="flex-container-contact flex-margin-contact">
+        <div class="flex-item-left-contact">
+            <img src="/images/contact_images/phone.png" alt="phone">
+            <h5>Ph. : +27 72 456 0669</h5>
+
+
+
+        </div>
+        <div class="flex-item-right-contact">
+            <img src="/images/contact_images/email.png" alt="email">
+            <h5>opperman.estelle@gmail.com (Estelle Opperman) </h5>
+
+        </div>
+        <div class="flex-item-left-contact">
+            <img src="/images/contact_images/phone.png" alt="phone">
+            <h5>Ph. : +27 72 456 0669</h5>
+
+        </div>
+    </div>
+    <!-- --------------------------------------flex_middle------------------------------ -->
+
+    <div class="container">
+        <form action="/action_page.php">
+            <label for="fname">First Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+            <label for="lname">Last Name</label>
+            <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" placeholder="Your email address..">
+
+
+
+            <label for="Message">Message</label>
+            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+
+    <!-- -------------------------------------------------footer -->
+
+    <footer>
+        <div class="content">
+            <div class="left box">
+                <div class="topic"><span class="und-footer">Contact U</span>S</div>
+                <p class="und-footer">15 Dekker Street, Krugersdorp West, Krugersdorp, Gauteng, 1739</p>
+                <p class="und-footer">Ph. : +27 72 456 0669</p>
+                <p class="und-footer">opperman.estelle@gmail.com (Estelle Opperman) </p>
+
+
+            </div>
+
+            <div class="right box">
+                <div class="topic">Email us</div>
+                <form action="https://formspree.io/f/mzboolwv" method="POST">
+                    <label>
+                        <input type="email" placeholder="Enter email address" name="email">
+                    </label>
+                    &nbsp;
+                    <p style="font-size: x-large">Message</p>
+
+                    <label>
+
+                        <textarea name="message" placeholder=" Write a description..."></textarea>
+                    </label>
+                    <input type="submit" name="submit" value="Send">
+                    <div class="media-icons">
+                        <a href="https://www.facebook.com/heartandsoulcommunitycentre" target="_blank"><i
+                                class="fab fa-facebook-f"></i></a>
+                        <a href="https://www.instagram.com/heart_and_soul_foundation_/" target="_blank"><i
+                                class="fab fa-instagram"></i></a>
+
+                    </div>
+                </form>
+            </div>
+
+
+        </div>
+
+    </footer>
+    <script src="app.js"></script>
+</body>
