@@ -2040,25 +2040,774 @@ textarea {
   text-decoration: underline;
   cursor: pointer;
 }
-/* --------------------------------------------- */
-/* .gallery-flex{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    height: 10px;
-  }
 
-  
-  .gallery-flex img{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    height: 20rem;
-    width: 20rem;
-    
-  } */
+/* --------------------15--------------------------- */
+.close15 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close15 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close15:hover,
+.close15:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------16--------------------------- */
+.close16 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close16 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close16:hover,
+.close16:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------17--------------------------- */
+.close17 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close17 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close17:hover,
+.close17:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------18--------------------------- */
+.close18 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close18 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close18:hover,
+.close18:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------19--------------------------- */
+.close19 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close19 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close19:hover,
+.close19:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* --------------------20--------------------------- */
+.close20 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close20 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close20:hover,
+.close20:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* --------------------21--------------------------- */
+.close21 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close21 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close21:hover,
+.close21:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------22--------------------------- */
+.close22 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close22 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close22:hover,
+.close22:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------23--------------------------- */
+.close23 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close23 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close23:hover,
+.close23:focus {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------24--------------------------- */
+.close24 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close24 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close24:hover,
+.close24.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------25--------------------------- */
+.close25 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close25 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close25:hover,
+.close25.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------26--------------------------- */
+.close26 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close26 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+/* --------------------27--------------------------- */
+.close27 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close27 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close27:hover,
+.close27.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------28--------------------------- */
+.close28 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close28 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close28:hover,
+.close28.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------29--------------------------- */
+.close29 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close29 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close29:hover,
+.close29.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------30--------------------------- */
+.close30 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close30 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close30:hover,
+.close30.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------31--------------------------- */
+.close31 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close31 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close31:hover,
+.close31.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------32--------------------------- */
+.close32 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close32 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close32:hover,
+.close32.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------33--------------------------- */
+.close33 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close33 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close33:hover,
+.close33.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------34--------------------------- */
+.close34 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close34 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close34:hover,
+.close34.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------35--------------------------- */
+.close35 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close35 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close35:hover,
+.close35.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------36--------------------------- */
+.close36 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close36 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close36:hover,
+.close36.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------37--------------------------- */
+.close37 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close37 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close37:hover,
+.close37.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------38--------------------------- */
+.close38 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close38 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close38:hover,
+.close38.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* --------------------39--------------------------- */
+.close39 {
+  color: #ffffff;
+  float: right;
+  font-size: 100px;
+  font-weight: bold;
+  margin-left: 40rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .close39 {
+    color: #ffffff;
+    float: right;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 11rem;
+    position: absolute;
+    bottom: 2.5rem;
+    z-index: 1;
+  }
+}
+
+.close39:hover,
+.close39.also-in-this-section {
+  color: #ffffff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+/* --------------------------------------------- */
+
 .main {
   width: 100%;
   flex-direction: column;
@@ -3365,12 +4114,11 @@ input[type="submit"]:hover {
     text-align: left;
   }
 
-  .article-flex-gap{
-    display:none;
+  .article-flex-gap {
+    display: none;
   }
 }
 
-
-.article-flex-gap{
-  height:5rem;
+.article-flex-gap {
+  height: 5rem;
 }
